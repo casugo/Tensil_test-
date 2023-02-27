@@ -4,5 +4,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Tensil_test- is to ...
+The goal of tensil_test- is to evaluate the mechanical properties of injected and printing specimenes with and without compatibilizer
+
 
